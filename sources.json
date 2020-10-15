@@ -312,7 +312,7 @@
     },
     "Linux": {
       "wrapper": {
-        "hash": "",
+        "hash": "2092ff195093854ffe79c655ba8ccfd6ebc4782e3d3ad098bff5fc3fb286083c",
         "url": "https://github.com/haskell/haskell-language-server/releases/download/0.5.1/haskell-language-server-wrapper-Linux.gz"
       },
       "ghcs": {
@@ -325,7 +325,7 @@
           "url": "https://github.com/haskell/haskell-language-server/releases/download/0.5.1/haskell-language-server-Linux-8.10.1.gz"
         },
         "8.6.5": {
-          "hash": "",
+          "hash": "cee03bc6864a153cbab00a43363f75680676f13525fa75c1ca31c61a8a6227dc",
           "url": "https://github.com/haskell/haskell-language-server/releases/download/0.5.1/haskell-language-server-Linux-8.6.5.gz"
         },
         "8.8.4": {
